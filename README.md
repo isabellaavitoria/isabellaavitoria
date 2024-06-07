@@ -2,7 +2,7 @@
 
 Meu nome é Isabella Vitória
 
-- Estou estudando na [Alura](htts:
+- Estou estudando na [Alura](htts://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
