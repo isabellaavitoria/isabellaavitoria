@@ -2,7 +2,7 @@
 
 Meu nome é Isabella Vitória
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](htts:
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,5 @@ Meu nome é Isabella Vitória
   
   @isabellavitoria903
 
-!.[].(Harry Styles Smile GIF - Harry Styles Smile Handsome GIFs)
+![](https://media1.tenor.com/m/MTl2RygQbPIAAAAC/billie-billie-eilish.gif)
+
